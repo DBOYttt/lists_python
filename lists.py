@@ -16,3 +16,8 @@ print(numbers)
 numbers = [4, 5, 2, 10, 7]
 numbers.remove(5) #remove method u can delete what u want
 print(numbers)
+
+#pop list
+numbers = [4, 5, 2, 10, 7]
+numbers.pop() #delete last symbol in list
+print(numbers)
