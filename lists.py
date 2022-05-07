@@ -21,3 +21,7 @@ print(numbers)
 numbers = [4, 5, 2, 10, 7]
 numbers.pop() #delete last symbol in list
 print(numbers)
+
+#index list
+numbers = [4, 5, 2, 10, 7]
+print(numbers.index(5)) #localisate a index of '5' number
