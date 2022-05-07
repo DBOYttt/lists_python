@@ -9,3 +9,7 @@ print(numbers)
 numbers = [4, 5, 2, 10, 7]
 numbers.insert(2, 13) #insert method added to list what ever u want in 'index' u want
 print(numbers)
+#remove list
+numbers = [4, 5, 2, 10, 7]
+numbers.remove(5) #remove method u can delete what u want
+print(numbers)
